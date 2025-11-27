@@ -1,5 +1,4 @@
-# web_101_repo
-WEB101 ARMESIN, JOSEPH REIGN D.
+
 <!DOCTYPE html>
 <html lang="en">
 
